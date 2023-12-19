@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/init.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/task3.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Script-5 (2).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Script-5.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Telegram Desktop/lab8_v2_Anokhina (2).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Telegram Desktop/lab8_v2_Anokhina (3).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Telegram Desktop/lab8_v2_Anokhina (4).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Telegram Desktop/lab8_v2_Anokhina.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/lab4_Urbanovich_1 (2).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/lab4_Urbanovich_1.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/laba_8 (1).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/laba_8 (3).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/laba_8 (4).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/laba_8 (6).sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/laba_8.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/mama.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/pidors.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/read_problem1.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/Триггер.sql" dialect="AZURE" />
+  </component>
+</project>
